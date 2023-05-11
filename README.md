@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrushankpatel" alt="vrushankpatel" /></a> </p>
 
-- 🔭 I’m currently working on [ZEUS-GPI, CMS](https://capsys-europe.com/zeus-gpi)
+- 🔭 I’m currently building tools for NASDAQ Marketplace Technology.(https://www.nasdaq.com)
 
 - 🌱 I’m currently learning **Distributed systems**
 
