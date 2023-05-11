@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrushankpatel" alt="vrushankpatel" /></a> </p>
 
-- 🔭 I’m currently building tools for NASDAQ Marketplace Technology.(https://www.nasdaq.com)
+- 🔭 I’m currently building tools for NASDAQ's Marketplace Technology.
 
 - 🌱 I’m currently learning **Distributed systems**
 
