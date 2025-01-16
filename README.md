@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/profile-pic.jpg" alt="Vrushank Patel" width="200" style="border-radius: 50%"/>
+  <img src="img/profile-pic3.jpg" alt="Vrushank Patel" width="200" style="border-radius: 50%"/>
   
   # Vrushank Patel
   
